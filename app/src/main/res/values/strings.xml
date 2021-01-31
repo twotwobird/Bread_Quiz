@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bread Quiz</string>
+    <string name="title_question_1">1. What are the minimum necessary ingredients to make yeast bread?</string>
+    <string name="question_1_A">flour, yeast, water, salt</string>
+    <string name="question_1_B">flour, oil, yeast, sugar</string>
+    <string name="question_1_C">flour, yeast, water, eggs</string>
+    <string name="title_question_2">2. What is the difference between bread flour and all-purpose flour?</string>
+    <string name="question_2_A">All-purpose flour cannot be used for bread, whereas bread flour can be used for bread.</string>
+    <string name="question_2_B">Bread flour is harvested in the fall, whereas all-purpose flour is harvested in the spring.</string>
+    <string name="question_2_C">Bread flour contains more gluten than all-purpose flour.</string>
+    <string name="title_question_3">3. What is the role of fat when added to bread dough?</string>
+    <string name="question_3_A">Makes the bread softer.</string>
+    <string name="question_3_B">Makes the bread more moist.</string>
+    <string name="question_3_C">Makes the bread more flaky.</string>
+    <string name="title_question_4">4. Fill in the blank: Kneading the dough helps form ______.</string>
+    <string name="title_question_5">5. What is the role of eggs when added to bread dough?</string>
+    <string name="question_5_A">Makes the bread Kosher.</string>
+    <string name="question_5_B">Adds fat to the bread dough.</string>
+    <string name="question_5_C">Provides additional lift to the bread.</string>
+</resources>
